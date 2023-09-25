@@ -378,6 +378,10 @@ section {
   .container {
     padding: 10px;
   }
+
+  .footer{
+    font-size: 10px;
+  }
 }
 
 /* Tablet layout (601px to 1024px) */
@@ -388,6 +392,10 @@ section {
   body {
     font-size: 16px;
     margin: 20px;
+  }
+
+  .footer{
+    font-size: 10px;
   }
 
   /* Example: Center-align navigation links for tablets */
@@ -430,6 +438,9 @@ section {
   /* Example: Reset container padding for laptops */
   .container {
     padding: 40px;
+  }
+  .footer{
+    font-size: 10px;
   }
 }
 
